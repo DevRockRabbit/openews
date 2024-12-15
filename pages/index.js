@@ -7,7 +7,7 @@ function Home() {
       <br />
       <br /> Vc é muito mais forte do que imagina, não dependa de ninguem, vc
       não precisa estar ao lado de uma pessoa para ser capaz, vc ja é, então
-      foda-se os caralho todo porra!!!!!!!
+      foda-se os caralho todo porra!!!
     </h1>
   );
 }
