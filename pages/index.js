@@ -1,7 +1,7 @@
 function Home() {
   return (
     <h1>
-      Vc é amlehor confeiteira que conheço!!!! <br />
+      Vc é a melhor confeiteira que conheço!!!! <br />
       <br />
       ainda vou te ver no bake off ou master cheff dos bolos!!!!!
       <br />
